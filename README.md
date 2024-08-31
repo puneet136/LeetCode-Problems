@@ -1,6 +1,8 @@
 # LeetCode Solutions ✅
 
-Welcome to the LeetCode solutions repository! This repository contains solutions to various LeetCode problems.
+This repository contains my solution of Codechef problems. They are in Java language.
+
+If this repository helped you out, please consider giving it a ⭐
 
 ## Contributing 🌱
 
